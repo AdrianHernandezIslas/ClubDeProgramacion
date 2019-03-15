@@ -25,4 +25,6 @@ Sugerencia(s)
 
 Evita proporcionar soluciones que son fuente de la web,
 así como tu lo buscaste tambien otras personas pueden
-hacerlo
+hacerlo.
+
+En una archivo compreso sube tu solucion al siguiente enlace:
